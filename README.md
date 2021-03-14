@@ -1,4 +1,4 @@
-# Face_Recognition-using-Deep Learning and OpenCV
+# Face_Recognition-using-Deep-Learning-and-OpenCV
 
 Used VGG model to train the model using the data from Dataset/Train folder and OpenCV to predict the face image capture from webcam.
 
